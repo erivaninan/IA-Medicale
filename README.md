@@ -1,3 +1,3 @@
-# Medical-IA
+# IA-Medicale
 
 Ce projet 
